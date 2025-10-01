@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">
+  🌸 ʕ•́ᴥ•̀ʔっ Hey there! I'm leemeii
+</h1>
 
-<!--
-**leemeii/leemeii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=22&center=true&vCenter=true&width=500&lines=AI+Engineer+💖;Software+Security+Researcher+🛡️;C+++Python+Java+Developer+👩💻">
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
+  
+  ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
+  ![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+  ![](https://img.shields.io/badge/LLM-FF6B9D?style=flat-square&logo=openai&logoColor=white)
+  ![](https://img.shields.io/badge/Security-8A2BE2?style=flat-square&logo=shield&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🎀 About Me
+
+> ✨ *Building intelligent systems with a touch of magic* 
+
+- 🧠 **Focus Areas:** Large Language Models • Static Analysis • Software Security
+- 💼 **Currently:** sophomore
+- 🌱 **Learning:** Advanced model architectures & program analysis
+- 🎯 **Goal:** Make software smarter and safer
+- ⚡ **Fun fact:** I debug code while watching anime 🎮
+
+## 🛠️ Tech Stack
+
+**💻 Languages**
+Python • C++ • Java • SQL
+
+**🔬 Research Interests**  
+LLM Training • Code Analysis • Vulnerability Detection
+Software Engineering • AI Security
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+ [![leemeii's GitHub stats](https://github-readme-stats.vercel.app/api?username=leemeii&show_icons=true&theme=blue_green&hide_border=true&bg_color=fff0f5&title_color=ff69b4&icon_color=9370db)](https://github.com/leemeii)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leemeii&layout=compact&theme=blue_green&hide_border=true&bg_color=fff0f5&title_color=ff69b4)](https://github.com/leemeii)
+
+</div>
+
+
+  
+  💖 *Thanks for visiting! Have a magical day!* ✨
+  
+</div>
