@@ -18,7 +18,7 @@
 
 ---
 
-## 🎀 About Me
+##  About Me
 
 > ✨ *Building intelligent systems with a touch of magic* 
 
@@ -37,18 +37,10 @@ Python • C++ • Java • SQL
 LLM Training • Code Analysis • Vulnerability Detection
 Software Engineering • AI Security
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
- [![leemeii's GitHub stats](https://github-readme-stats.vercel.app/api?username=leemeii&show_icons=true&theme=blue_green&hide_border=true&bg_color=fff0f5&title_color=ff69b4&icon_color=9370db)](https://github.com/leemeii)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leemeii&layout=compact&theme=blue_green&hide_border=true&bg_color=fff0f5&title_color=ff69b4)](https://github.com/leemeii)
-
 </div>
 
 
   
-  💖 *Thanks for visiting! Have a magical day!* ✨
+  💖 *Thanks for visiting! Have a magical day!* 
   
 </div>
