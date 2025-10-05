@@ -1,5 +1,5 @@
 <h1 align="center">
-  🌸 ʕ•́ᴥ•̀ʔっ Hey there! I'm leemeii
+   ʕ•́ᴥ•̀ʔっ Hey there! I'm leemeii
 </h1>
 
 <p align="center">
