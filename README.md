@@ -22,11 +22,11 @@
 
 > ✨ *Building intelligent systems with a touch of magic* 
 
-- 🧠 **Focus Areas:** Large Language Models • Static Analysis • Software Security
-- 💼 **Currently:** sophomore
-- 🌱 **Learning:** Advanced model architectures & program analysis
-- 🎯 **Goal:** Make software smarter and safer
-- ⚡ **Fun fact:** I debug code while watching anime 🎮
+-  **Focus Areas:** Large Language Models • Static Analysis • Software Security
+-  **Currently:** sophomore
+-  **Learning:** Advanced model architectures & program analysis
+-  **Goal:** Make software smarter and safer
+-  **Fun fact:** I debug code while watching anime 🎮
 
 ## 🛠️ Tech Stack
 
