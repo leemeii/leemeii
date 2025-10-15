@@ -37,10 +37,5 @@ Python • C++ • Java • SQL
 LLM Training • Code Analysis • Vulnerability Detection
 Software Engineering • AI Security
 
-</div>
-
-
-  
-  💖 *Thanks for visiting! Have a magical day!* 
   
 </div>
